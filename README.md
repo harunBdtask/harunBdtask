@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is MD HARUNUR RASHID
 #### I am Full Stack Software Engineer
-![I am Full Stack Software Engineer](https://media.licdn.com/dms/image/C5603AQEsg61uElOmbw/profile-displayphoto-shrink_200_200/0/1659759393764?e=1694044800&v=beta&t=QkjCmkqqSt6nF0XiY7GQCaGhkpt87L8GOUHJo6kQF50)
+![I am Full Stack Software Engineer]
 
-Professional Experienced in Solid PHP and MVC pattern, CodeIgniter, and Laravel Framework. Competent with version control systems. Git, Github, Gitlab, and Bitbucket. Familiar with CI/CD, Docker, and Ubuntu. Strong knowledge of MySQL & complex Queries, Eloquent ORM. Experience in JavaScript, Vue JS, jQuery, Ajax, Axios, and JSON. Ability to write standard code and code reusability. Experience in developing an E-commerce platform, Inventory management system / ERP solution, Domain knowledge of ERP Production, Material Management, Sales and Distribution, Accounts, and Finance.
+Professional experience in Solid PHP and MVC pattern, CodeIgniter, and Laravel Framework. Competent with version control systems. Git, Github, Gitlab, and Bitbucket. Familiar with CI/CD, Docker, and Ubuntu. Strong knowledge of MySQL & complex Queries, Eloquent ORM. Experience in JavaScript, Vue JS, jQuery, Ajax, Axios, and JSON. Ability to write standard code and code reusability. Experience in developing an E-commerce platform, Inventory management system / ERP solution, Domain knowledge of ERP Production, Material Management, Sales and Distribution, Accounts, and Finance.
 
 Skills: Laravel / CodeIgniter / VUE JS / REACT JS / Docker / Linux
 
